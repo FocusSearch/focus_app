@@ -26,8 +26,8 @@ Focus GEO 是一款专为内容营销团队设计的 AI 工具，帮助企业快
 
 | 平台 | 文件 | 大小 | 说明 |
 |------|------|------|------|
-| **Windows** | [FocusGEO-0.4.0-win.zip](./FocusGEO-0.4.0-win.zip) | ~533 MB | Windows 桌面应用 |
-| **Linux** | [focus-geo-electron-0.4.0.tar.gz](./focus-geo-electron-0.4.0.tar.gz) | ~470 MB | Linux 桌面应用 |
+| **Windows** | [FocusGEO-0.4.0-win0604.zip](https://github.com/FocusSearch/focus_app/releases/download/v0.4.0/FocusGEO-0.4.0-win0604.zip) | ~533 MB | Windows 桌面应用 |
+| **Linux** | [focus-geo-electron-0.4.0.tar.gz](https://github.com/FocusSearch/focus_app/releases/download/v0.4.0/focus-geo-electron-0.4.0.tar.gz) | ~470 MB | Linux 桌面应用 |
 
 ### 安装步骤
 
